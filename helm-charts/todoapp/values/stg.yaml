@@ -4,7 +4,7 @@ mysql:
 todoapp:
   namespace: todoapp
   image:
-    repository: ikulyk404/todoapp
+    repository: zaavee/todoapp
 
   resources:
     requests:
