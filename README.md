@@ -284,7 +284,7 @@ MYSQL_USER=todoapp_user
 MYSQL_PASSWORD=userpassword123
 APP_SECRET_KEY=your-super-secret-django-key-here
 APP_DB_NAME=todoapp_db
-APP_DB_HOST=mysql-service
+APP_DB_HOST=mysql-0.mysql.mysql.svc.cluster.local
 ```
 
 **Note**: Use different, more secure values for the staging environment.
